@@ -1,0 +1,24 @@
+2025-04-02 11:24:01,365 - __main__ - INFO - Initializing data processor
+2025-04-02 11:24:01,365 - __main__ - INFO - Processing all datasets
+2025-04-02 11:24:01,371 - src.preprocessing.data_processor - INFO - Successfully loaded data from email_communication_data.csv
+2025-04-02 11:24:01,377 - src.preprocessing.data_processor - INFO - Email data preprocessing completed
+2025-04-02 11:24:01,378 - src.preprocessing.data_processor - INFO - Successfully loaded data from chatbot_conversation_data.csv
+2025-04-02 11:24:01,379 - src.preprocessing.data_processor - INFO - Chatbot data preprocessing completed
+2025-04-02 11:24:01,380 - src.preprocessing.data_processor - INFO - Successfully loaded data from business_report_data.csv
+2025-04-02 11:24:01,381 - src.preprocessing.data_processor - INFO - Business report data preprocessing completed
+2025-04-02 11:24:01,381 - src.preprocessing.data_processor - INFO - All data processed successfully
+2025-04-02 11:24:01,381 - __main__ - INFO - Saving processed data
+2025-04-02 11:24:01,383 - src.preprocessing.data_processor - INFO - Saved processed email data to /Users/mahmoudahmed/Desktop/Revolve AI/ai_communication_tools/data/processed/processed_email_data.csv
+2025-04-02 11:24:01,384 - src.preprocessing.data_processor - INFO - Saved processed chatbot data to /Users/mahmoudahmed/Desktop/Revolve AI/ai_communication_tools/data/processed/processed_chatbot_data.csv
+2025-04-02 11:24:01,385 - src.preprocessing.data_processor - INFO - Saved processed report data to /Users/mahmoudahmed/Desktop/Revolve AI/ai_communication_tools/data/processed/processed_report_data.csv
+2025-04-02 11:24:01,385 - __main__ - INFO - Preparing training data
+2025-04-02 11:24:01,385 - src.preprocessing.data_processor - INFO - Prepared training and testing data for email
+2025-04-02 11:24:01,385 - src.preprocessing.data_processor - INFO - Prepared training and testing data for chatbot
+2025-04-02 11:24:01,385 - src.preprocessing.data_processor - INFO - Prepared training and testing data for report
+2025-04-02 11:24:01,385 - __main__ - INFO - Initializing text processor
+2025-04-02 11:24:02,686 - src.preprocessing.text_processor - INFO - TextPreprocessor initialized successfully
+2025-04-02 11:24:02,686 - __main__ - INFO - Processing sample texts
+2025-04-02 11:24:02,717 - __main__ - INFO - Processed sample email: i need assistance with the software configuration...
+2025-04-02 11:24:02,721 - __main__ - INFO - Processed sample chat: how can i automate my emails...
+2025-04-02 11:24:02,729 - __main__ - INFO - Processed sample report: customer satisfaction scores improved by last quar...
+2025-04-02 11:24:02,729 - __main__ - INFO - Data processing pipeline completed successfully

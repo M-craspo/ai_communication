@@ -1,0 +1,5 @@
+Original: Customer satisfaction scores improved by 20% last quarter.
+Cleaned: customer satisfaction scores improved by last quarter
+Tokens: customer, satisfaction, scores, improved, last, quarter
+Entities: [{'text': '20%', 'label': 'PERCENT', 'start': 41, 'end': 44}, {'text': 'last quarter', 'label': 'DATE', 'start': 45, 'end': 57}]
+Sentiment: {'score': 0.0, 'label': 'neutral'}

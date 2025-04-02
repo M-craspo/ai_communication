@@ -1,0 +1,101 @@
+Email_ID,Sender,Subject,Email_Body,Category,Email_Length
+1,client@business.com,Project Proposal,I need assistance with the software configuration.,Business,50
+2,client@business.com,Meeting Request,Can we schedule a meeting next week?,Business,36
+3,partner@company.com,Invoice Update,Can we schedule a meeting next week?,Support,36
+4,support@service.com,Project Proposal,I would like to discuss a new project opportunity.,Business,50
+5,client@business.com,Project Proposal,Please find the attached invoice for this month.,Business,48
+6,support@service.com,Meeting Request,Please find the attached invoice for this month.,Business,48
+7,partner@company.com,Technical Support,Can we schedule a meeting next week?,Meeting,36
+8,client@business.com,Meeting Request,Please find the attached invoice for this month.,Support,48
+9,partner@company.com,Technical Support,I would like to discuss a new project opportunity.,Finance,50
+10,support@service.com,Project Proposal,I need assistance with the software configuration.,Finance,50
+11,partner@company.com,Project Proposal,I would like to discuss a new project opportunity.,Finance,50
+12,partner@company.com,Project Proposal,Can we schedule a meeting next week?,Finance,36
+13,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Support,36
+14,support@service.com,Technical Support,I would like to discuss a new project opportunity.,Finance,50
+15,support@service.com,Project Proposal,Can we schedule a meeting next week?,Meeting,36
+16,support@service.com,Invoice Update,Please find the attached invoice for this month.,Meeting,48
+17,partner@company.com,Meeting Request,I would like to discuss a new project opportunity.,Business,50
+18,partner@company.com,Invoice Update,I need assistance with the software configuration.,Business,50
+19,support@service.com,Meeting Request,Please find the attached invoice for this month.,Meeting,48
+20,partner@company.com,Project Proposal,Please find the attached invoice for this month.,Support,48
+21,partner@company.com,Invoice Update,Please find the attached invoice for this month.,Finance,48
+22,support@service.com,Invoice Update,Please find the attached invoice for this month.,Support,48
+23,partner@company.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+24,client@business.com,Meeting Request,Please find the attached invoice for this month.,Finance,48
+25,support@service.com,Project Proposal,Please find the attached invoice for this month.,Business,48
+26,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Business,36
+27,client@business.com,Invoice Update,Please find the attached invoice for this month.,Support,48
+28,support@service.com,Meeting Request,I need assistance with the software configuration.,Meeting,50
+29,client@business.com,Invoice Update,I need assistance with the software configuration.,Support,50
+30,partner@company.com,Project Proposal,Can we schedule a meeting next week?,Meeting,36
+31,client@business.com,Meeting Request,Please find the attached invoice for this month.,Meeting,48
+32,client@business.com,Project Proposal,I need assistance with the software configuration.,Business,50
+33,support@service.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+34,client@business.com,Invoice Update,Please find the attached invoice for this month.,Finance,48
+35,client@business.com,Invoice Update,Please find the attached invoice for this month.,Support,48
+36,partner@company.com,Project Proposal,I need assistance with the software configuration.,Finance,50
+37,client@business.com,Meeting Request,I would like to discuss a new project opportunity.,Finance,50
+38,client@business.com,Meeting Request,I need assistance with the software configuration.,Meeting,50
+39,partner@company.com,Technical Support,I need assistance with the software configuration.,Finance,50
+40,client@business.com,Meeting Request,I would like to discuss a new project opportunity.,Support,50
+41,partner@company.com,Meeting Request,I need assistance with the software configuration.,Business,50
+42,support@service.com,Invoice Update,Please find the attached invoice for this month.,Meeting,48
+43,partner@company.com,Meeting Request,I need assistance with the software configuration.,Support,50
+44,client@business.com,Technical Support,Please find the attached invoice for this month.,Support,48
+45,client@business.com,Invoice Update,I would like to discuss a new project opportunity.,Finance,50
+46,support@service.com,Project Proposal,Can we schedule a meeting next week?,Finance,36
+47,partner@company.com,Invoice Update,Please find the attached invoice for this month.,Support,48
+48,partner@company.com,Meeting Request,I need assistance with the software configuration.,Business,50
+49,support@service.com,Meeting Request,Please find the attached invoice for this month.,Finance,48
+50,client@business.com,Invoice Update,I would like to discuss a new project opportunity.,Support,50
+51,support@service.com,Project Proposal,I would like to discuss a new project opportunity.,Business,50
+52,partner@company.com,Invoice Update,I would like to discuss a new project opportunity.,Business,50
+53,client@business.com,Meeting Request,I would like to discuss a new project opportunity.,Support,50
+54,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Meeting,36
+55,support@service.com,Meeting Request,Please find the attached invoice for this month.,Business,48
+56,partner@company.com,Invoice Update,Please find the attached invoice for this month.,Support,48
+57,partner@company.com,Invoice Update,Please find the attached invoice for this month.,Meeting,48
+58,support@service.com,Project Proposal,Can we schedule a meeting next week?,Support,36
+59,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Support,36
+60,support@service.com,Project Proposal,I would like to discuss a new project opportunity.,Support,50
+61,partner@company.com,Meeting Request,I would like to discuss a new project opportunity.,Support,50
+62,partner@company.com,Invoice Update,Can we schedule a meeting next week?,Business,36
+63,support@service.com,Project Proposal,I need assistance with the software configuration.,Business,50
+64,client@business.com,Project Proposal,I need assistance with the software configuration.,Meeting,50
+65,partner@company.com,Technical Support,Please find the attached invoice for this month.,Business,48
+66,partner@company.com,Meeting Request,I need assistance with the software configuration.,Support,50
+67,partner@company.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+68,partner@company.com,Project Proposal,I need assistance with the software configuration.,Business,50
+69,client@business.com,Project Proposal,I need assistance with the software configuration.,Business,50
+70,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Support,36
+71,partner@company.com,Project Proposal,I need assistance with the software configuration.,Meeting,50
+72,partner@company.com,Invoice Update,I need assistance with the software configuration.,Meeting,50
+73,client@business.com,Technical Support,Can we schedule a meeting next week?,Meeting,36
+74,client@business.com,Project Proposal,Can we schedule a meeting next week?,Support,36
+75,partner@company.com,Meeting Request,I would like to discuss a new project opportunity.,Business,50
+76,client@business.com,Invoice Update,I would like to discuss a new project opportunity.,Finance,50
+77,partner@company.com,Meeting Request,Can we schedule a meeting next week?,Meeting,36
+78,partner@company.com,Invoice Update,Can we schedule a meeting next week?,Meeting,36
+79,support@service.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+80,partner@company.com,Project Proposal,Please find the attached invoice for this month.,Meeting,48
+81,support@service.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+82,support@service.com,Meeting Request,I would like to discuss a new project opportunity.,Meeting,50
+83,support@service.com,Technical Support,I would like to discuss a new project opportunity.,Finance,50
+84,client@business.com,Project Proposal,I need assistance with the software configuration.,Meeting,50
+85,client@business.com,Project Proposal,I need assistance with the software configuration.,Support,50
+86,client@business.com,Meeting Request,Please find the attached invoice for this month.,Finance,48
+87,partner@company.com,Technical Support,I would like to discuss a new project opportunity.,Support,50
+88,client@business.com,Project Proposal,I need assistance with the software configuration.,Meeting,50
+89,support@service.com,Invoice Update,Can we schedule a meeting next week?,Support,36
+90,partner@company.com,Meeting Request,I need assistance with the software configuration.,Meeting,50
+91,client@business.com,Meeting Request,I would like to discuss a new project opportunity.,Finance,50
+92,client@business.com,Meeting Request,I need assistance with the software configuration.,Finance,50
+93,partner@company.com,Project Proposal,I would like to discuss a new project opportunity.,Business,50
+94,partner@company.com,Meeting Request,I need assistance with the software configuration.,Finance,50
+95,client@business.com,Invoice Update,Can we schedule a meeting next week?,Business,36
+96,support@service.com,Meeting Request,I need assistance with the software configuration.,Support,50
+97,support@service.com,Meeting Request,Can we schedule a meeting next week?,Finance,36
+98,client@business.com,Meeting Request,Can we schedule a meeting next week?,Support,36
+99,partner@company.com,Technical Support,I would like to discuss a new project opportunity.,Support,50
+100,client@business.com,Project Proposal,Please find the attached invoice for this month.,Support,48

@@ -1,5 +1,0 @@
-Original: I need assistance with the software configuration.
-Cleaned: i need assistance with the software configuration
-Tokens: need, assistance, software, configuration
-Entities: []
-Sentiment: {'score': 0.0, 'label': 'neutral'}

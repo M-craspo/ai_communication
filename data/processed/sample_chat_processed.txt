@@ -1,5 +1,0 @@
-Original: How can I automate my emails?
-Cleaned: how can i automate my emails
-Tokens: automate, emails
-Entities: []
-Sentiment: {'score': 0.0, 'label': 'neutral'}
